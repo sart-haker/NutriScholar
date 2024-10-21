@@ -21,10 +21,11 @@ Table of Contents:
 
 
 Library Credits:
--fuzzyWuzzy by Jake Bayer
 
--levenshtein by Zdenek Nozicka
+- fuzzyWuzzy by Jake Bayer
 
--SKLearn
+- levenshtein by Zdenek Nozicka
 
--pandas
+- SKLearn
+
+- pandas
